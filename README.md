@@ -1,7 +1,3 @@
-﻿# weatherapp
- 
-
-
 # Backend:
 
 Need API-key from https://openweathermap.org/ in .env
